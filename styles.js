@@ -539,7 +539,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\wboxx\Documents\Projects\Web\Will Boxx\will-boxx-dot-com\src\styles.scss */"./src/styles.scss");
+module.exports = __webpack_require__(/*! C:\Users\wboxx\Documents\Projects\Javascript\Web\Will Boxx\will-boxx-dot-com\src\styles.scss */"./src/styles.scss");
 
 
 /***/ })
